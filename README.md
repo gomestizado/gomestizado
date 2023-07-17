@@ -1,7 +1,7 @@
 # Olá, eu sou o Matheus Gomes 👋🏻
 ### Bem-vindo ao meu perfil do GitHub!
 🎓 Cursando Sistemas de Informação.<br>
-💻 Apaixonado por resolver problemas usando programação.<br>
+💻 Apaixonado por resolver problemas.<br>
 📚 Me divirto aprendendo a programar e vice-versa.<br>
 🎯 Quero aprimorar minhas habilidades de desenvolvimento cada dia mais.
 
