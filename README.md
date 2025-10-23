@@ -25,9 +25,11 @@
   </tr>
 </table>
 
-## Minhas Skills
-<table width="100%">
-  <tr width="100%">
+<br>
+
+## Skills
+<table>
+  <tr>
     <td valign="top" width="25%">
       <a href="#"><img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white" alt="HTML"></a>
       <a href="#"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></a>
@@ -69,7 +71,12 @@
   </tr>
 </table>
 
+<br>
 
 ## Contato 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/gomesmatheus/)
+[<img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="linkedin"/>](https://www.linkedin.com/in/matheusgcoelho/)
+[<img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>](mailto:matheus_mgc@yahoo.com.br)
+
+<br>
+
 ###### Obrigado pela visita e até breve!
