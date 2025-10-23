@@ -33,6 +33,7 @@
       <a href="#"><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></a>
       <a href="#"><img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB" alt="React"></a>
       <a href="#"><img src="https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff" alt="Sass"></a>
+      <a href="#"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=fff" alt="Tailwind"></a>
       <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript"></a>
       <a href="#"><img src="https://img.shields.io/badge/WordPress-%2321759B.svg?logo=wordpress&logoColor=white" alt="WordPress"></a>
     </td>
